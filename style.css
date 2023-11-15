@@ -1,0 +1,19 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color:#FCEDDA;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family:cursive;
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color:#317773;
+   font-weight:bold;
+    border-radius: 6px;
+    border: 3px solid #EE4E34;
+    padding: 10px;
+}
